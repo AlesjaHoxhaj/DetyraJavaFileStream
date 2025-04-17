@@ -1,0 +1,2 @@
+kjo eshte nje prove
+java file stream
